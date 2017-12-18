@@ -23,4 +23,7 @@ $api->version('v1', ['namespace'=>'App\Http\Controllers\Api\V1', 'middleware'=>'
 
     $api->post('user/register','Users\RegisterController@register');
 
+    $api->get('user/logout','Users\AuthenticateController@logout');
+    $api->get('user/info','Users\AuthenticateController@getUser');
+
 });
