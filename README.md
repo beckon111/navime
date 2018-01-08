@@ -2,9 +2,9 @@
 App for searching events near you.
 ## Getting Started
 
-Based at laravel 5.5, so just run 
+Based at laravel 5.5, so just run
 ```
-composer update 
+composer update
 php artisan serve
 ```
 
@@ -23,4 +23,4 @@ XML PHP Extension
 ```
 
 ### Documentation and SRS:  ([Ru](https://github.com/beckon111/navime/tree/master/documents))
-### Sorce code: 
+### Source code: ([Src](https://github.com/beckon111/navime/tree/master/src))
