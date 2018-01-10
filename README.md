@@ -34,4 +34,6 @@ XML PHP Extension
  - [User Model Class Diagram](https://github.com/beckon111/navime/tree/master/documents/UserModelClassDiagram.png)
 ### Testing:
  - [Testing Plan](https://github.com/beckon111/navime/tree/master/Test/TestPlan.md)
+ - [Testing Results](https://github.com/beckon111/navime/tree/master/Test/TestResult.md)
+
 ### Source code: ([Src](https://github.com/beckon111/navime/tree/master/src))
