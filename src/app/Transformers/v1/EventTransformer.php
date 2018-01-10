@@ -5,7 +5,7 @@ namespace App\Transformers\V1;
 use App\Event;
 use League\Fractal\TransformerAbstract;
 
-class OrderTransformer extends TransformerAbstract
+class EventTransformer extends TransformerAbstract
 {
 
     public function transform(Event $event){

@@ -22,5 +22,15 @@ XML PHP Extension
 
 ```
 
-### Documentation and SRS:  ([Ru](https://github.com/beckon111/navime/tree/master/documents))
+### Software Requirements Specification:  ([SRS](https://github.com/beckon111/navime/tree/master/documents/SRS.md))
+### Diagrams:
+ - [Deployment Diagram](https://github.com/beckon111/navime/tree/master/documents/DeploymentDiagram.png)
+ - [Use Case Diagram](https://github.com/beckon111/navime/tree/master/documents/UseCaseDiagram.png)
+ - [User Update Activity Diagram](https://github.com/beckon111/navime/tree/master/documents/UserUpdateActivityDiagram.png)
+ - [User Update Sequence Diagram](https://github.com/beckon111/navime/tree/master/documents/UserUpdateSequenceDiagram.png)
+ - [AuthenticateController Class Diagram](https://github.com/beckon111/navime/tree/master/documents/AuthenticateControllerClassDiagram.png)
+ - [RegisterController Class Diagram](https://github.com/beckon111/navime/tree/master/documents/RegisterControllerClassDiagram.png)
+ - [Event Model Class Diagram](https://github.com/beckon111/navime/tree/master/documents/EventModelClassDiagram.png)
+ - [User Model Class Diagram](https://github.com/beckon111/navime/tree/master/documents/UserModelClassDiagram.png)
+
 ### Source code: ([Src](https://github.com/beckon111/navime/tree/master/src))
