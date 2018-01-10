@@ -32,5 +32,6 @@ XML PHP Extension
  - [RegisterController Class Diagram](https://github.com/beckon111/navime/tree/master/documents/RegisterControllerClassDiagram.png)
  - [Event Model Class Diagram](https://github.com/beckon111/navime/tree/master/documents/EventModelClassDiagram.png)
  - [User Model Class Diagram](https://github.com/beckon111/navime/tree/master/documents/UserModelClassDiagram.png)
-
+### Testing:
+ - [Testing Plan](https://github.com/beckon111/navime/tree/master/Test/TestPlan.md)
 ### Source code: ([Src](https://github.com/beckon111/navime/tree/master/src))
